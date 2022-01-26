@@ -42,7 +42,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 
 		base_url : {//Where are your images at? 
 		    //IMPORTANT: change this path or else your study will break when deployed.
-			image : 'https://github.com/kathleenschmidt/awiat/'
+			image : 'https://github.com/kathleenschmidt/awiat/blob/main/'
 		} 
 	});
 	//NOTE: when you test the task, remember that pressing ESC and then ENTER skips blocks.
